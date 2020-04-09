@@ -1,4 +1,4 @@
-# Unit8SQL
+# Unit8 SQL Library Manager
  SQL task
 Unit 8 Project, Treehouse Tech Degree
 
@@ -8,5 +8,6 @@ Node is required to run this project..
 
 To Run:
 
-Run npm install
-Run npm start
+ npm install
+
+ npm start
